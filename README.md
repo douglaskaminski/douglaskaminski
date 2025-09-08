@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Douglas!
 
-<!--
-**douglaskaminski/douglaskaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Engenheiro de Software** apaixonado por tecnologia, automação e soluções inteligentes.  
+🎯 Atualmente estudando e me desenvolvendo em **Python, Machine Learning e SQL**.  
+🌍 Erechim - RS - Brasil.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- **Linguagens:** Python, JavaScript, HTML, CSS, SQL, JAVA  
+- **Frameworks & Libs:** React, Flask, FastAPI, Pandas, Scikit-learn  
+- **Banco de Dados:** PostgreSQL, MySQL, Oracle SQL  
+- **Infra:** Linux, Redes, Git, Docker  
+
+---
+
+## 📂 Projetos em Destaque
+🔹 Em breve colocarei aqui os projetos que estou desenvolvendo e que já desenvolvi
+
+---
+
+## 📚 O que estou estudando agora
+- Aprimorando **Machine Learning & Deep Learning** (1h por dia)  
+- Desenvolvendo projetos práticos em **Python & React**  
+- Melhorando o inglês para oportunidades internacionais
+- Concluíndo o bacharelado em Engenharia de Software  
+
+---
+
+## 📫 Como me encontrar
+- 💼 [LinkedIn](linkedin.com/in/douglas-kaminski-22a8b6323)  
+- 📧 douglaskaminski2@gmail.com  
+
+---
+
