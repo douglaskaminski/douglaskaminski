@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](linkedin.com/in/douglas-kaminski-22a8b6323)  
+- 💼 [LinkedIn](www.linkedin.com/in/douglas-kaminski-22a8b6323)  
 - 📧 douglaskaminski2@gmail.com  
 
 ---
