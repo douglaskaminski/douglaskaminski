@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Douglas!
 
 💻 **Engenheiro de Software** apaixonado por tecnologia, automação e soluções inteligentes.  
-🎯 Atualmente estudando e me desenvolvendo em **Python, Machine Learning e SQL**.  
+🎯 Atualmente estudando e me desenvolvendo em **Claude Code**.  
 🌍 Erechim - RS - Brasil.  
 
 ---
@@ -19,16 +19,7 @@
 
 ---
 
-## 📚 O que estou estudando agora
-- Aprimorando **Machine Learning & Deep Learning** (1h por dia)  
-- Desenvolvendo projetos práticos em **Python & React**  
-- Melhorando o inglês para oportunidades internacionais
-- Concluíndo o bacharelado em Engenharia de Software  
-
----
-
 ## 📫 Como me encontrar
 - 💼 LinkedIn: www.linkedin.com/in/douglas-kaminski-22a8b6323 
-- 💻 Acesse: https://douglaskaminski.github.io/portfolio/
 ---
 
